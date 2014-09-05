@@ -4,7 +4,6 @@ version := "1.3.0-SNAPSHOT"
 
 scalaVersion := "2.10.3"
 
-
 libraryDependencies ++= Seq(
   "junit" % "junit" % "4.7" % "test",
   "joda-time" % "joda-time" % "2.4",
